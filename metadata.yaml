@@ -1,5 +1,8 @@
 _repo: Histoire-du-Consulat-et-de-l-Empire-Vol-16-20-faisant-suite-a-l-Histoire-de-la-Revolution-Fra__63576
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63576-h/images/cover-page.jpg
 creator:
   author:
     agent_name: Thiers, Adolphe
@@ -14,6 +17,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Adolphe_Thiers
     - https://en.wikipedia.org/wiki/Adolphe_Thiers
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63576#Histoire-du-Consulat-et-de-l-Empire-Vol-16-20-faisant-suite-a-l-Histoire-de-la-Revolution-Fra_
 gutenberg_issued: '2020-10-29'
 gutenberg_type: Text
 identifiers:
